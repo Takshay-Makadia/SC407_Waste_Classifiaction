@@ -1,2 +1,3 @@
 # SC407_Waste_Classifiaction
-This is the repo for code of the SC407 project.
+
+We are _Group 31_ and this is our project on Industrial Waste Classification. This repo contains the code and models for the project under the course SC407.
